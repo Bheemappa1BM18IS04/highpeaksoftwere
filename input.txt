@@ -1,0 +1,24 @@
+ Enter the Number of Goodies
+10
+fitbitplus 7980
+ipodas 22349
+mibands 999
+cultpass 2799
+mackbookpro 229900
+digitalcamera 11101
+alexa 9999
+sandwichtoaster 2195
+microwavwvena 9800
+scale 4999
+digitalcamera:11101
+microwavwvena:9800
+mibands:999
+cultpass:2799
+fitbitplus:7980
+ipodas:22349
+scale:4999
+alexa:9999
+mackbookpro:229900
+sandwichtoaster:2195
+
+ 
